@@ -1,0 +1,83 @@
+﻿Feature,Description
+number_of_elements,원소의 수
+mean_atomic_mass,원자 질량 평균
+wtd_mean_atomic_mass,가중치를 부여한 원자 질량 평균
+gmean_atomic_mass,원자 질량 기하 평균
+wtd_gmean_atomic_mass,가중치를 부여한 원자 질량 기하 평균
+entropy_atomic_mass,원자 질량 엔트로피
+wtd_entropy_atomic_mass,가중치를 부여한 원자 질량 엔트로피
+range_atomic_mass,원자 질량 범위
+wtd_range_atomic_mass,가중치를 부여한 원자 질량 범위
+std_atomic_mass,원자 질량 표준편차
+wtd_std_atomic_mass,가중치를 부여한 원자 질량 표준편차
+mean_fie,일차 이온화 에너지 평균
+wtd_mean_fie,가중치를 부여한 일차 이온화 에너지 평균
+gmean_fie,일차 이온화 에너지 기하 평균
+wtd_gmean_fie,가중치를 부여한 일차 이온화 에너지 기하 평균
+entropy_fie,일차 이온화 에너지 엔트로피
+wtd_entropy_fie,가중치를 부여한 일차 이온화 에너지 엔트로피
+range_fie,일차 이온화 에너지 범위
+wtd_range_fie,가중치를 부여한 일차 이온화 에너지 범위
+std_fie,일차 이온화 에너지 표준편차
+wtd_std_fie,가중치를 부여한 일차 이온화 에너지 표준편차
+mean_atomic_radius,원자 반지름 평균
+wtd_mean_atomic_radius,가중치를 부여한 원자 반지름 평균
+gmean_atomic_radius,원자 반지름 기하 평균
+wtd_gmean_atomic_radius,가중치를 부여한 원자 반지름 기하 평균
+entropy_atomic_radius,원자 반지름 엔트로피
+wtd_entropy_atomic_radius,가중치를 부여한 원자 반지름 엔트로피
+range_atomic_radius,원자 반지름 범위
+wtd_range_atomic_radius,가중치를 부여한 원자 반지름 범위
+std_atomic_radius,원자 반지름 표준편차
+wtd_std_atomic_radius,가중치를 부여한 원자 반지름 표준편차
+mean_Density,밀도 평균
+wtd_mean_Density,가중치를 부여한 밀도 평균
+gmean_Density,밀도 기하 평균
+wtd_gmean_Density,가중치를 부여한 밀도 기하 평균
+entropy_Density,밀도 엔트로피
+wtd_entropy_Density,가중치를 부여한 밀도 엔트로피
+range_Density,밀도 범위
+wtd_range_Density,가중치를 부여한 밀도 범위
+std_Density,밀도 표준편차
+wtd_std_Density,가중치를 부여한 밀도 표준편차
+mean_ElectronAffinity,전자 친화력 평균
+wtd_mean_ElectronAffinity,가중치를 부여한 전자 친화력 평균
+gmean_ElectronAffinity,전자 친화력 기하 평균
+wtd_gmean_ElectronAffinity,가중치를 부여한 전자 친화력 기하 평균
+entropy_ElectronAffinity,전자 친화력 엔트로피
+wtd_entropy_ElectronAffinity,가중치를 부여한 전자 친화력 엔트로피
+range_ElectronAffinity,전자 친화력 범위
+wtd_range_ElectronAffinity,가중치를 부여한 전자 친화력 범위
+std_ElectronAffinity,전자 친화력 표준편차
+wtd_std_ElectronAffinity,가중치를 부여한 전자 친화력 표준편차
+mean_FusionHeat,융해열 평균
+wtd_mean_FusionHeat,가중치를 부여한 융해열 평균
+gmean_FusionHeat,융해열 기하 평균
+wtd_gmean_FusionHeat,가중치를 부여한 융해열 기하 평균
+entropy_FusionHeat,융해열 엔트로피
+wtd_entropy_FusionHeat,가중치를 부여한 융해열 엔트로피
+range_FusionHeat,융해열 범위
+wtd_range_FusionHeat,가중치를 부여한 융해열 범위
+std_FusionHeat,융해열 표준편차
+wtd_std_FusionHeat,가중치를 부여한 융해열 표준편차
+mean_ThermalConductivity,열전도도 평균
+wtd_mean_ThermalConductivity,가중치를 부여한 열전도도 평균
+gmean_ThermalConductivity,열전도도 기하 평균
+wtd_gmean_ThermalConductivity,가중치를 부여한 열전도도 기하 평균
+entropy_ThermalConductivity,열전도도 엔트로피
+wtd_entropy_ThermalConductivity,가중치를 부여한 열전도도 엔트로피
+range_ThermalConductivity,열전도도 범위
+wtd_range_ThermalConductivity,가중치를 부여한 열전도도 범위
+std_ThermalConductivity,열전도도 표준편차
+wtd_std_ThermalConductivity,가중치를 부여한 열전도도 표준편차
+mean_Valence,원자 원자가 평균
+wtd_mean_Valence,가중치를 부여한 원자 원자가 평균
+gmean_Valence,원자 원자가 기하 평균
+wtd_gmean_Valence,가중치를 부여한 원자 원자가 기하 평균
+entropy_Valence,원자 원자가 엔트로피
+wtd_entropy_Valence,가중치를 부여한 원자 원자가 엔트로피
+range_Valence,원자 원자가 범위
+wtd_range_Valence,가중치를 부여한 원자 원자가 범위
+std_Valence,원자 원자가 표준편차
+wtd_std_Valence,가중치를 부여한 원자 원자가 표준편차
+critical_temp,초전도체의 임계 온도(Tc)
